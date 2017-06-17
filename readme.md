@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/nyk510/bayesian_nn.png?label=ready&title=Ready)](https://waffle.io/nyk510/bayesian_nn?utm_source=badge)
 # Bayesian Neural Network
 
 ニューラルネットワークをベイズモデルとして捉えた場合に, ドロップアウトを用いたニューラルネットワークの学習が
